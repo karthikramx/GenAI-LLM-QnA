@@ -4,7 +4,7 @@ LLM QnA using Langchain, Pinecone and OpenAI
 
 High level overview
 
-![alt text]([https://github.com/karthikramx/GenAI-LLM-QnA/blob/main/files/LLM%20QnA.png])
+<img src="https://github.com/karthikramx/GenAI-LLM-QnA/blob/main/files/LLM%20QnA.png" alt="drawing"/>
 
 
 - Langchain: A framework that gives developers to construct LLM-powered applications easily
