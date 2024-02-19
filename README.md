@@ -13,4 +13,4 @@ High level overview
 
 I followed this project from : https://zerotomastery.io/courses/learn-langchain-pinecone/
 Merely following the project wont help, as langchain is updating frequently,
-You should be able to use the requirements specific versions to run this application, and the api keys too (obviously)
+You should be able to use the requirements specific versions to run this application, and have your own api keys too (obviously)
