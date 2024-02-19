@@ -4,6 +4,9 @@ LLM QnA using Langchain, Pinecone and OpenAI
 
 High level overview
 
+![alt text]([http://url/to/img.png](https://github.com/karthikramx/GenAI-LLM-QnA/blob/main/files/LLM%20QnA.png))
+
+
 - Langchain: A framework that gives developers to construct LLM-powered applications easily
 - Pinecone: A vector database that helps power AI application, basically stores vector embeddings, to create custom LLM apps
 - OpenAI: Do you really need an introduction?
